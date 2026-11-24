@@ -1,0 +1,6 @@
+{
+  "name": "Event Readiness Agent",
+  "description": "Self-contained event readiness checklist and local assessment tool for event coordinators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
